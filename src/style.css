@@ -1,0 +1,10 @@
+.title {
+text-align: center;
+padding: 10px;
+}
+.red {
+color: #61dafb;
+background-color: #837d7d;
+font-size: 50px;
+font-family: Arial, Helvetica, sans-serif;
+}
